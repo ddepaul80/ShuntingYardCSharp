@@ -1,0 +1,11 @@
+C:\Users\ddepaul\documents\visual studio 2012\Projects\ShuntingYardAlgorithm\ShuntingYardAlgorithm\bin\Debug\ShuntingYardAlgorithm.exe.config
+C:\Users\ddepaul\documents\visual studio 2012\Projects\ShuntingYardAlgorithm\ShuntingYardAlgorithm\bin\Debug\ShuntingYardAlgorithm.exe
+C:\Users\ddepaul\documents\visual studio 2012\Projects\ShuntingYardAlgorithm\ShuntingYardAlgorithm\bin\Debug\ShuntingYardAlgorithm.pdb
+C:\Users\ddepaul\documents\visual studio 2012\Projects\ShuntingYardAlgorithm\ShuntingYardAlgorithm\obj\Debug\ShuntingYardAlgorithm.exe
+C:\Users\ddepaul\documents\visual studio 2012\Projects\ShuntingYardAlgorithm\ShuntingYardAlgorithm\obj\Debug\ShuntingYardAlgorithm.pdb
+C:\Users\ddepaul\Desktop\C# Programs\ShuntingYardAlgorithm\ShuntingYardAlgorithm\bin\Debug\ShuntingYardAlgorithm.exe.config
+C:\Users\ddepaul\Desktop\C# Programs\ShuntingYardAlgorithm\ShuntingYardAlgorithm\obj\Debug\ShuntingYardAlgorithm.exe
+C:\Users\ddepaul\Desktop\C# Programs\ShuntingYardAlgorithm\ShuntingYardAlgorithm\obj\Debug\ShuntingYardAlgorithm.pdb
+C:\Users\ddepaul\Desktop\C# Programs\ShuntingYardAlgorithm\ShuntingYardAlgorithm\bin\Debug\ShuntingYardAlgorithm.exe
+C:\Users\ddepaul\Desktop\C# Programs\ShuntingYardAlgorithm\ShuntingYardAlgorithm\bin\Debug\ShuntingYardAlgorithm.pdb
+C:\Users\ddepaul\Desktop\C# Programs\ShuntingYardAlgorithm\ShuntingYardAlgorithm\obj\Debug\ShuntingYardAlgorithm.csprojResolveAssemblyReference.cache
